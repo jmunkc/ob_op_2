@@ -38,7 +38,7 @@ Here are the contributors so far:
 * [@jmunkc](https://github.com/jmunkc)
 ___
 ## Contact
-You can contact me at [jona04g8@stud.kea.dk](jona04g8@stud.kea.dk)
+You can contact me at [jona04g8@stud.kea.dk](mailto:jona04g8@stud.kea.dk)
 
 ## Licens
 This project is not yet licensed
